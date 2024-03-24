@@ -3,3 +3,45 @@
     margin: 0;
     box-sizing: border-box;
 }
+.imgsea{
+    position: absolute;
+width: 1440px;
+height: 886px;
+left: 0px;
+top: 0px;
+
+}
+#logo{
+    position: absolute;
+    width: 213px;
+    height: 55px;
+    left: 85px;
+    top: 14px;
+}
+
+.menu{
+width: 73px;
+height: 12px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #000000;
+}
+.title5{
+    color: #FFFFFF;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <600>;
+    font-style: normal;
+}
+h1{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 58px;
+line-height: 65px;
+text-align: center;
+color: #FFFFFF;
+}
